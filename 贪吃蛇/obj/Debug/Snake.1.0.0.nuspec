@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Snake</id>
+    <version>1.0.0</version>
+    <authors>Snake</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\code\C#入门\Csharp核心实践\贪吃蛇\bin\Debug\net6.0\Snake.runtimeconfig.json" target="lib\net6.0\Snake.runtimeconfig.json" />
+    <file src="D:\code\C#入门\Csharp核心实践\贪吃蛇\bin\Debug\net6.0\Snake.dll" target="lib\net6.0\Snake.dll" />
+  </files>
+</package>
